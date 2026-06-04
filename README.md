@@ -121,4 +121,7 @@ Dataset includes:
 Aspiring Data Analyst | Python | Power BI | FastAPI | Data Analytics
 
 ---
+## 🚀 Live Demo
+https://ecommerce-analytics-fastapi.onrender.com/docs
+
 ⭐ If you found this project interesting, feel free to explore the repository.
