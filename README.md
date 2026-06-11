@@ -102,22 +102,22 @@ An interactive analytics dashboard built with Streamlit, connected to the FastAP
 ### 📸 Dashboard Preview
 
 ### 🔢 Key Metrics
-![Key Metrics](assets/Key Metrics.png.png)
+![Key Metrics](assets/Key%20Metrics.png.png)
 
 ### 📅 Monthly Revenue & 💳 Payment Methods
-![Monthly Revenue](assets/Monthly Revenue.png.png)
+![Monthly Revenue](assets/Monthly%20Revenue.png.png)
 
 ### 🗺️ Top States & 📦 Order Status
-![Top States](assets/Top States.png.png)
+![Top States](assets/Top%20States.png.png)
 
 ### 🏷️ Top Product Categories
-![Top Categories](assets/Top Categories.png.png)
+![Top Categories](assets/Top%20Categories.png.png)
 
 ### 🏙️ Top Cities
-![Top Cities](assets/Top Cities.png.png)
+![Top Cities](assets/Top%20Cities.png.png)
 
 ### 🎛️ Dashboard Sidebar
-![Dashboard Sidebar](assets/Dashboard Sidebar.png.png)
+![Dashboard Sidebar](assets/Dashboard%20Sidebar.png.png)
 
 ---
 
